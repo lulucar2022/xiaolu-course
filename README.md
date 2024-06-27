@@ -7,9 +7,9 @@
   
 ## 后端
 技术栈：
--Express 框架
--MongoDB 数据库
--采用 Jwt 生成用户令牌
+- Express 框架
+- MongoDB 数据库
+- 采用 Jwt 生成用户令牌
 
 ## 项目主要功能
 - 首页分类多级展示
